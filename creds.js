@@ -5,10 +5,10 @@
 const { Pool } = require('pg');
 
 const pool = new Pool({
-  host: "3380db.cs.uh.edu",
-  user: "dbs024",
-  password: "tiapw4dbs",
-  database: "COSC3380",
+  host: "",
+  user: "",
+  password: "",
+  database: "",
 });
 
 module.exports = pool;
