@@ -1,10 +1,10 @@
 # Database-Website
 ## Database Connection information
 ```
-host: "3380db.cs.uh.edu",
-user: "dbs024",
-password: "tiapw4dbs",
-database: "COSC3380",
+host: "",
+user: ",
+password: "",
+database: "",
 ```
 
 ## Node Information
@@ -20,10 +20,10 @@ npm install express
 
 ## Contributors
 ```
-Peter Dinh 1835957 dbs027
-Danny Phan 1609411 dbs095
-Tahmeed Zaman 1625011 dbs125
-David Lee Daniels 2131415 dbs024
+Peter Dinh 
+Danny Phan 
+Tahmeed Zaman 
+David Lee Daniels 
 ```
 
 ## Website Link 
